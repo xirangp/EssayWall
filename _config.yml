@@ -7,7 +7,7 @@ title: PublicWall
 subtitle: 'Publish your thoughts'
 description: ''
 keywords:
-author: Everyone
+author: Every Guy
 language: zh-TW
 timezone: 'Asia/Taipei'
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: anzhiyu
+theme: hexo-theme-anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
