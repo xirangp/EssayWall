@@ -794,7 +794,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9iZDk1N2ZjZjA1ZWU1MDQ2L0VaZTlOLVNwcm9CSW1vNVB5bVh3eUljQlRYRGF5eVhIQUNuNjI1Q1UzdUp6eXc.jpg # 自定加载动画义头像
+  avatar: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBa1pRN2dYUGY1VzlnWmxPa1VVWlljaDZxVDM3Unc.gif # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
