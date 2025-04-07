@@ -22,9 +22,9 @@ menu:
 
 # nav相关配置
 nav:
-  enable: false
-  travelling: false
-  clock: false
+  enable: true
+  travelling: true
+  clock: true
   menu:
     - title: 网页
       item:
