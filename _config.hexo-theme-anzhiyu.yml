@@ -31,6 +31,9 @@ nav:
         - name: 博客
           link: https://383842.xyz/
           icon: /img/favicon.ico
+        - name: 博客导航页
+          link: https://fenbai.383842.xyz/
+          icon: /img/favicon.ico
     - title: 项目
       item:
         - name: 我的网盘
