@@ -139,7 +139,7 @@ katex:
 # --------------------------------------
 
 # Favicon（网站图标）
-favicon: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9iZDk1N2ZjZjA1ZWU1MDQ2L0VaZTlOLVNwcm9CSW1vNVB5bVh3eUljQlRYRGF5eVhIQUNuNjI1Q1UzdUp6eXc.jpg
+favicon: /favicon.ico
 
 # Avatar (头像)
 avatar:
@@ -794,7 +794,7 @@ preloader:
   source: 3
   # pace theme (see https://codebyzach.github.io/pace/)
   pace_css_url:
-  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg # 自定加载动画义头像
+  avatar: https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9iZDk1N2ZjZjA1ZWU1MDQ2L0VaZTlOLVNwcm9CSW1vNVB5bVh3eUljQlRYRGF5eVhIQUNuNjI1Q1UzdUp6eXc.jpg # 自定加载动画义头像
 
 # aside (侧边栏)
 # --------------------------------------
