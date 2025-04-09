@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: PublicWall
-subtitle: 'Publish your thoughts'
-description: ''
-keywords:
-author: Every Guy
-language: zh-TW
-timezone: 'Asia/Taipei'
+title: 粉白社
+subtitle: '粉白妙妙屋'
+description: '回首向来萧瑟处，归去，也无风雨也无晴'
+keywords: 粉白
+author: 廖宁宁
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
