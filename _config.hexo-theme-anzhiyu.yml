@@ -151,6 +151,7 @@ disable_top_img: false
 
 # The banner image of home page
 index_img: background: url(https://i.postimg.cc/pXN1b09c/Screenshot-2025-04-09-18-48-44-369-com-miui-gallery.jpg)
+
 # If the banner of page not setting, it will show the top_img
 default_top_img: false
 
