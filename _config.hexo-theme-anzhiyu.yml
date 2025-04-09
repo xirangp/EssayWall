@@ -150,7 +150,7 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: background: url()
+index_img: background: url(https://dlink.host/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9iZDk1N2ZjZjA1ZWU1MDQ2L0VaZTlOLVNwcm9CSW1vNVB5bVh3eUljQlRYRGF5eVhIQUNuNjI1Q1UzdUp6eXc.jpg)
 
 # If the banner of page not setting, it will show the top_img
 default_top_img: false
